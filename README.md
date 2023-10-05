@@ -34,3 +34,8 @@ We invite you to participate in our community! Share your ideas, ask for help, a
 We would like to thank everyone who has contributed to the development of our game. Your contributions are invaluable to us!
 
 Thank you for being part of our community and helping to create this game together with us! 
+## Roadmap
+Next updates is: 1 machines industry,
+ 2 ancient cultures, 3 the childs,
+ 4 chockofriuts trees, 5 ideologies,
+ 6 wars, 7 radioactive dreams, 8 androids in the space. 
